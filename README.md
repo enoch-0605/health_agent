@@ -79,6 +79,13 @@ Windows：
 - `resources/document/`：健康知识库，内容附权威来源链接
 - `chatmemory/`：限制窗口大小、校验会话 ID 的文件会话记忆
 
+## 页面展示
+<img width="1828" height="955" alt="image" src="https://github.com/user-attachments/assets/f4890358-ca67-4a19-8938-965ec73cf65b" />
+
+<img width="1813" height="846" alt="image" src="https://github.com/user-attachments/assets/86bd0b88-0a9a-4704-8cc3-e2a96b958a79" />
+
+
+
 ## 安全设计
 
 - 系统提示词禁止疾病诊断、药物调整、极端饮食和危险训练。
