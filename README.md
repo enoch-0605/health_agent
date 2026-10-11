@@ -1,8 +1,8 @@
 # AI Agent：健康生活指导
 
-这是一个基于 Spring Boot、Spring AI Alibaba 和 DashScope 的健康生活指导后端，由 `yupi-agent` 的示例结构改造而来。它支持多轮对话、SSE 流式输出、结构化健康计划、本地知识库 RAG、领域工具调用和 ReAct 智能体。
+这是一个基于 Spring Boot、Spring AI Alibaba 和 DashScope 的健康生活指导后端。它支持多轮对话、SSE 流式输出、结构化健康计划、本地知识库 RAG、领域工具调用和 ReAct 智能体。
 
-> 本项目提供一般性健康生活信息，不用于疾病诊断、药物调整、治疗或急救。
+> 本项目提供一般性健康生活信息。
 
 ## 环境要求
 
